@@ -23,6 +23,7 @@ def create2DGaussian(mn, sigma, cov, n):
     np.random.seed(142)
     return np.random.multivariate_normal(np.array([mn, mn]), np.array([[sigma, cov], [cov, sigma]]), n)
 
+
 dataRandom = create2DGaussian(mn=50, sigma=1, cov=0, n=100)
 
 # generate layout and plot data
