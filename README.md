@@ -10,3 +10,5 @@ Programming language | Platform : IPython | Jupyter Notebook
 CodeNeuro Data Set : Ahrens Lab data repository || Light-sheet imaging
 
 Result : Successfully identified regions of the brain that encode particular properties, e.g., a particular temporal pattern or selectivity to a stimulus.
+
+Zebra Fish
