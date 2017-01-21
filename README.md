@@ -11,4 +11,7 @@ CodeNeuro Data Set : Ahrens Lab data repository || Light-sheet imaging
 
 Result : Successfully identified regions of the brain that encode particular properties, e.g., a particular temporal pattern or selectivity to a stimulus.
 
-Zebra Fish
+
+
+<img src="https://cloud.githubusercontent.com/assets/5808185/22171310/4544f280-df8b-11e6-9a4a-6e6c798623b0.png" width="425"/> <img src="https://cloud.githubusercontent.com/assets/5808185/22171311/45494722-df8b-11e6-811b-aceb08cdb41d.png" width="425"/> 
+
