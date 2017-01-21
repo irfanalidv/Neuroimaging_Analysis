@@ -20,3 +20,7 @@ Result : Successfully identified regions of the brain that encode particular pro
 <img src="https://cloud.githubusercontent.com/assets/5808185/22171314/455d9736-df8b-11e6-8176-26ccfbbeb985.png" width="425"/> <img src="https://cloud.githubusercontent.com/assets/5808185/22171315/456143fe-df8b-11e6-9f60-fcc833bed5da.png" width="425"/>
 
 <img src="https://cloud.githubusercontent.com/assets/5808185/22171317/4576a26c-df8b-11e6-9631-6a305fd63e83.png" width="425"/> <img src="https://cloud.githubusercontent.com/assets/5808185/22171316/4564f0b2-df8b-11e6-8bad-d7847f9d0b93.png" width="425"/>
+
+<img src="https://cloud.githubusercontent.com/assets/5808185/22171318/4586041e-df8b-11e6-9997-e5032d0e06ef.png" width="425"/> <img src="https://cloud.githubusercontent.com/assets/5808185/22171319/4589718a-df8b-11e6-81d3-52389e9732b3.png" width="425"/>
+
+
